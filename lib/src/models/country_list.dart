@@ -457,6 +457,38 @@ class Countries {
       }
     },
     {
+      "num_code": "494",
+      "alpha_2_code": "AU",
+      "alpha_3_code": "AUS",
+      "en_short_name": "Australia",
+      "nationality": "Australian",
+      "dial_code": "+61",
+      "nameTranslations": {
+        "sk": "Austrália",
+        "se": "Austrália",
+        "pl": "Australia",
+        "no": "Australia",
+        "ja": "オーストラリア",
+        "it": "Australia",
+        "zh": "澳大利亚",
+        "nl": "Australië",
+        "de": "Australien",
+        "fr": "Australie",
+        "es": "Australia",
+        "en": "Australia",
+        "pt_BR": "Austrália",
+        "sr-Cyrl": "Аустралија",
+        "sr-Latn": "Australija",
+        "zh_TW": "澳州",
+        "tr": "Avustralya",
+        "ro": "Australia",
+        "ar": "أستراليا",
+        "fa": "استرالیا",
+        "yue": "澳洲",
+        "el": "Αυστραλία",
+      }
+    },
+    {
       "num_code": "36",
       "alpha_2_code": "AU",
       "alpha_3_code": "AUS",
@@ -4227,7 +4259,8 @@ class Countries {
         "ar": "مقدونيا",
         "fa": "مقدونیه",
         "yue": "馬其頓（前南斯拉夫共和國）",
-        "el": "Βόρεια Μακεδονία (πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας)",
+        "el":
+            "Βόρεια Μακεδονία (πρώην Γιουγκοσλαβική Δημοκρατία της Μακεδονίας)",
       }
     },
     {
@@ -7491,7 +7524,8 @@ class Countries {
         "ar": "المملكة المتحدة",
         "fa": "بریتانیا",
         "yue": "大不列顛及北愛爾蘭聯合王國",
-        "el": "Ηνωμένο Βασίλειο της Μεγάλης Βρετανίας και της Βόρειας Ιρλανδίας",
+        "el":
+            "Ηνωμένο Βασίλειο της Μεγάλης Βρετανίας και της Βόρειας Ιρλανδίας",
       }
     },
     {

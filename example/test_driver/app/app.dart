@@ -1,8 +1,8 @@
-import 'package:flutter_driver/driver_extension.dart';
-import 'package:intlphonenumberinputtest/main.dart' as app;
+// import 'package:flutter_driver/driver_extension.dart';
+// import 'package:intlphonenumberinputtest/main.dart' as app;
 
-main() {
-  enableFlutterDriverExtension();
+// main() {
+//   enableFlutterDriverExtension();
 
-  app.main();
-}
+//   app.main();
+// }
